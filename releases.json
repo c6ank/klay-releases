@@ -1,0 +1,24 @@
+[
+  {
+    "schema": 1,
+    "version": "0.0.39",
+    "date": "2026-09-10",
+    "lede": "Select vertices, edges and faces, measure your sculpture, and sculpt and paint in one stroke.",
+    "highlights": [
+      "Vertex, edge & face selection",
+      "Measure tool",
+      "MatCap shading",
+      "Channel sculpting",
+      "Focus mode",
+      "Aurora and lightning bolts",
+      "Keyboard map",
+      "Your own quick toggles"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.39",
+    "windows": {
+      "url": "https://github.com/c6ank/klay-releases/releases/download/0.0.39/Klay_Setup_0.0.39.exe",
+      "size": 362870478,
+      "sha512": "33bb0428df7194d17a28370c3ebaab8a27536eb7717013c9c9c223929124ce8897413d895e67839226f3f27a4c77e071bbe99f12fc67388e9b0114d98a930b61"
+    }
+  }
+]
