@@ -1,6 +1,21 @@
 [
   {
     "schema": 1,
+    "version": "0.0.41",
+    "date": "2026-09-14",
+    "lede": "The welcome screen starts you on a head or a cube and imports your own mesh in one click, the radial hub gets one outer ring with Display and Scene buttons, and the Fire material's light now travels with its object.",
+    "highlights": [
+      "Head and Cube sample scenes"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.41",
+    "windows": {
+      "url": "https://github.com/c6ank/klay-releases/releases/download/0.0.41/Klay_Setup_0.0.41.exe",
+      "size": 374295536,
+      "sha512": "0c6e6ce49cfff088cd95365fd066990d2ddd7c331b9e48ff5c2818ef171145b95b35fc47ca54b856be36997bc0c3ab585577f854d24a2cd74c02eb38a19abee8"
+    }
+  },
+  {
+    "schema": 1,
     "version": "0.0.40",
     "date": "2026-09-14",
     "lede": "Bend and pose your sculpture along curves, hear your brushes and the weather, and set things on fire.",
