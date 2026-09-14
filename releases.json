@@ -1,6 +1,29 @@
 [
   {
     "schema": 1,
+    "version": "0.0.40",
+    "date": "2026-09-14",
+    "lede": "Bend and pose your sculpture along curves, hear your brushes and the weather, and set things on fire.",
+    "highlights": [
+      "Curve deformer",
+      "Sound for sculpting and weather",
+      "Fire material",
+      "Full PBR specular",
+      "Retro CRT",
+      "Windows installer and updates",
+      "Make the interface yours",
+      "Brush reach modes",
+      "Privacy switch"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.40",
+    "windows": {
+      "url": "https://github.com/c6ank/klay-releases/releases/download/0.0.40/Klay_Setup_0.0.40.exe",
+      "size": 372793161,
+      "sha512": "76aebf87c0aa2e2632d02034cee427f039323ec4fe923141d83b130df35e0fdfc843b29924afaf8e82bff87faf952a36e27bd71bcb7374deaf162b50d172ed05"
+    }
+  },
+  {
+    "schema": 1,
     "version": "0.0.39",
     "date": "2026-09-10",
     "lede": "Select vertices, edges and faces, measure your sculpture, and sculpt and paint in one stroke.",
