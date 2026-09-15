@@ -1,6 +1,23 @@
 [
   {
     "schema": 1,
+    "version": "0.0.42",
+    "date": "2026-09-15",
+    "lede": "Hold N to drop a new clay layer right where your cursor points and drag it to the size you want, hold E to move, spin or scale the selection without leaving your tool, and a rotated clay layer's bounding box now turns with it.",
+    "highlights": [
+      "Hold N to place new clay",
+      "Hold E for a quick transform",
+      "Open a model straight from your files"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.42",
+    "windows": {
+      "url": "https://github.com/c6ank/klay-releases/releases/download/0.0.42/Klay_Setup_0.0.42.exe",
+      "size": 374797988,
+      "sha512": "3fc0223bfb2a2e4adc15e48bd160c5cf727efac285f8cfb5e939c98d0eb38bc93c8de03aa9166eca0070571112e0edf08cb2ee80168461972c61143b18f32945"
+    }
+  },
+  {
+    "schema": 1,
     "version": "0.0.41",
     "date": "2026-09-14",
     "lede": "The welcome screen starts you on a head or a cube and imports your own mesh in one click, the radial hub gets one outer ring with Display and Scene buttons, and the Fire material's light now travels with its object.",
