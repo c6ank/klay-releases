@@ -1,6 +1,40 @@
 [
   {
     "schema": 1,
+    "version": "0.0.43",
+    "date": "2026-09-21",
+    "lede": "Live session sharing with voice chat, a physical sky with volumetric clouds, multi-axis and radial symmetry, a viewport stencil for any brush, and saved bake jobs with UDIM displacement.",
+    "highlights": [
+      "Klay Live: share your session",
+      "Physical atmosphere",
+      "Volumetric clouds",
+      "Multi-axis and radial symmetry",
+      "Viewport stencil",
+      "Blend card with joint profiles",
+      "Promote stamp and falloff",
+      "Mask brush in the Brush tab",
+      "Reapply last stroke",
+      "Flood the whole model",
+      "Saved bake jobs",
+      "Displacement and vector displacement",
+      "Import layout in grid",
+      "Lantern card on hold S",
+      "Focus LOD",
+      "Scale the light rig",
+      "Last four releases in What's new",
+      "Foveated rendering",
+      "Material and light docks",
+      "Shooting stars and satellites"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.43",
+    "windows": {
+      "url": "https://github.com/c6ank/klay-releases/releases/download/0.0.43/Klay_Setup_0.0.43.exe",
+      "size": 377229353,
+      "sha512": "67cd87257438509935acc3f24ef2fff276bdeadb3df93eea309aacbef2cfb5044686ca64828f1ee9b509decc7cda043980ad60c57195a93a22abab26a35ebf9d"
+    }
+  },
+  {
+    "schema": 1,
     "version": "0.0.42",
     "date": "2026-09-15",
     "lede": "Hold N to drop a new clay layer right where your cursor points and drag it to the size you want, hold E to move, spin or scale the selection without leaving your tool, and a rotated clay layer's bounding box now turns with it.",
