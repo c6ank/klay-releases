@@ -1,6 +1,23 @@
 [
   {
     "schema": 1,
+    "version": "0.0.44",
+    "date": "2026-09-22",
+    "lede": "The interface now sizes itself to your monitor and its display scaling, with an Auto option in Settings; the Canvas opens as a view inside Klay.",
+    "highlights": [
+      "Canvas view",
+      "Pinned images in the viewport",
+      "Absolute trackball"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.44",
+    "windows": {
+      "url": "https://github.com/c6ank/klay-releases/releases/download/0.0.44/Klay_Setup_0.0.44.exe",
+      "size": 404961293,
+      "sha512": "b5ee17936b833dc9c2e873e2418498b01b94cbcaa369064458a34f0c45b46fb4c712dcda66c6fb261724876b49dd7a33acbdf38132c1f3c4df6d436b20edc490"
+    }
+  },
+  {
+    "schema": 1,
     "version": "0.0.43",
     "date": "2026-09-21",
     "lede": "Live session sharing with voice chat, a physical sky with volumetric clouds, multi-axis and radial symmetry, a viewport stencil for any brush, and saved bake jobs with UDIM displacement.",
