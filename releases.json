@@ -1,6 +1,34 @@
 [
   {
     "schema": 1,
+    "version": "0.0.45",
+    "date": "2026-09-28",
+    "lede": "The Canvas opens as a view inside Klay and is saved with each project, a new Water material turns any mesh into a body of water, and the Brush panel now serves the Clay and Stamp brushes.",
+    "highlights": [
+      "Water material",
+      "Glass caustics in ray tracing",
+      "Fill tool",
+      "Tessellation card",
+      "Live instances and Instance X",
+      "Session recording from the timeline",
+      "Canvas view",
+      "Pinned images in the viewport",
+      "A canvas board for each project",
+      "Post groups",
+      "Auto convert to poly",
+      "Freeze a clay layer",
+      "Clay and Stamp brush settings in the Brush panel",
+      "Keep open in Remesh"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.45",
+    "windows": {
+      "url": "https://github.com/c6ank/klay-releases/releases/download/0.0.45/Klay_Setup_0.0.45.exe",
+      "size": 410520714,
+      "sha512": "a078141bc08a14931e8a10c35cefc1e2820e770cbc9517208b5df110d3e42338c595957531de2d2d56c0f90fe6a6663e479689954a4d024546966a54a7da511f"
+    }
+  },
+  {
+    "schema": 1,
     "version": "0.0.44",
     "date": "2026-09-22",
     "lede": "The interface now sizes itself to your monitor and its display scaling, with an Auto option in Settings; the Canvas opens as a view inside Klay.",
