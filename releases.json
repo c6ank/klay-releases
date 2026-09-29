@@ -1,6 +1,22 @@
 [
   {
     "schema": 1,
+    "version": "0.0.46",
+    "date": "2026-09-29",
+    "lede": "The Mirror tool gains a Spatial mode that cuts the mesh on the mirror plane and rebuilds the other half as a merged mirror or a live mirrored instance, and tessellation now keeps a mesh's UVs.",
+    "highlights": [
+      "Mirror tool Spatial mode",
+      "Delete UVs"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.46",
+    "windows": {
+      "url": "https://github.com/c6ank/klay-releases/releases/download/0.0.46/Klay_Setup_0.0.46.exe",
+      "size": 410495430,
+      "sha512": "ef301e198d73c77e2698ee2feab3013ea926afe7125b8036deb6d1e451f45b0a44f7dec3b48a91ef8651d2659520b90d75a9b69b29c5d39aba2ac65aa12e14fb"
+    }
+  },
+  {
+    "schema": 1,
     "version": "0.0.45",
     "date": "2026-09-28",
     "lede": "The Canvas opens as a view inside Klay and is saved with each project, a new Water material turns any mesh into a body of water, and the Brush panel now serves the Clay and Stamp brushes.",
