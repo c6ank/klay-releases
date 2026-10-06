@@ -1,6 +1,41 @@
 [
   {
     "schema": 1,
+    "version": "0.0.47",
+    "date": "2026-10-06",
+    "lede": "A Camera tool, a new Curve tool, Exhibitions and locked scenes, camera tracks, and sequence renders and movies.",
+    "highlights": [
+      "Camera tool",
+      "Curve tool",
+      "Exhibitions and locked scenes",
+      "Speakers",
+      "Brush mixer and Global brush settings",
+      "Camera tracks",
+      "Cameras in the viewport",
+      "Camera monitor",
+      "Sequence render and movies",
+      "Camera aspect ratio",
+      "Video on the Canvas",
+      "Extrude mask",
+      "Posing with the gizmo",
+      "Compare",
+      "Material bindings",
+      "Per-object display",
+      "Transform menu",
+      "Rotator",
+      "Update review",
+      "Viewport action bar",
+      "Rain water effects"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.47",
+    "windows": {
+      "url": "https://github.com/c6ank/klay-releases/releases/download/0.0.47/Klay_Setup_0.0.47.exe",
+      "size": 414148388,
+      "sha512": "e48ffd80716dd3a093fa52cbbaffcb1f85899d29866da1a7153a6e391ea0210c78661faaa31cf47eefcd9265934479e03ef89affd2ef72e36cd6264147a180ee"
+    }
+  },
+  {
+    "schema": 1,
     "version": "0.0.46",
     "date": "2026-09-29",
     "lede": "The Mirror tool gains a Spatial mode that cuts the mesh on the mirror plane and rebuilds the other half as a merged mirror or a live mirrored instance, and tessellation now keeps a mesh's UVs.",
