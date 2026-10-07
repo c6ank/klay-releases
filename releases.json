@@ -1,6 +1,24 @@
 [
   {
     "schema": 1,
+    "version": "0.0.48",
+    "date": "2026-10-07",
+    "lede": "Render region raytraces only a part of the view; Color correct v3 works like Lightroom’s develop panel; artists can publish their exhibitions from the Exhibitions tab.",
+    "highlights": [
+      "Render region",
+      "Artist pages and exhibitions",
+      "More functions for buttons",
+      "Fog over the backplate"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.48",
+    "windows": {
+      "url": "https://github.com/c6ank/klay-releases/releases/download/0.0.48/Klay_Setup_0.0.48.exe",
+      "size": 413843213,
+      "sha512": "da0fbf936fff84942d211920e6bd709614079f72d4362e554f9d589bb0f01b63a3ba65d192cbea0e7a35b46068a722716774abbb59ff13b8dc736fe07034492c"
+    }
+  },
+  {
+    "schema": 1,
     "version": "0.0.47",
     "date": "2026-10-06",
     "lede": "A Camera tool, a new Curve tool, Exhibitions and locked scenes, camera tracks, and sequence renders and movies.",
