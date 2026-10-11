@@ -1,6 +1,26 @@
 [
   {
     "schema": 1,
+    "version": "0.0.49",
+    "date": "2026-10-11",
+    "lede": "Retopology rebuilt for clean all-quad loops that follow the main edges; Pan speed and an Invert stroke key in Settings; orbit and zoom close in on the point you click; light edits can be undone; Undo always stays on Ctrl+Z.",
+    "highlights": [
+      "MatCap from an image",
+      "Follow creases",
+      "Export and import brushes",
+      "Sidebar on the left",
+      "16-bit clay",
+      "View and lens in the Viewport HUD"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.49",
+    "windows": {
+      "url": "https://github.com/c6ank/klay-releases/releases/download/0.0.49/Klay_Setup_0.0.49.exe",
+      "size": 393964484,
+      "sha512": "680c755a713dc10faa6a6be24e2148afb5f770050ef80ea19cecd1a9ee0d384c1c6991c8027a9a17081883f6f7686de1fd208c49b6f92c2e08cf4cc9a1e8c203"
+    }
+  },
+  {
+    "schema": 1,
     "version": "0.0.48",
     "date": "2026-10-07",
     "lede": "Render region raytraces only a part of the view; Color correct v3 works like Lightroom’s develop panel; artists can publish their exhibitions from the Exhibitions tab.",
