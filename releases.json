@@ -1,5 +1,22 @@
 [
   {
+    "version": "0.0.51",
+    "date": "2026-10-17",
+    "lede": "The Theatre menu on the Z key, French and Chinese, a faster PBR Fast, curve profiles and Curve tool setups in the library, and the toolbar's tools in the right-click menu.",
+    "highlights": [
+      "Theatre menu",
+      "French and Chinese",
+      "Tools in the right-click menu",
+      "Lazy mouse card",
+      "Curves in the library"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.51",
+    "platforms": [
+      "windows",
+      "macos"
+    ]
+  },
+  {
     "version": "0.0.50",
     "date": "2026-10-15",
     "lede": "Klay and Community asset libraries, shared by Klay artists, now sit beside your own assets.",
