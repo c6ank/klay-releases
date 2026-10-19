@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.0.52",
+    "date": "2026-10-18",
+    "lede": "Stroke deposit engine 2.0, face, edge and vertex selection, updated clay and rake brushes with dynamic smoothing, and finer spacing and stroke direction controls.",
+    "highlights": [
+      "Stroke deposit engine 2.0",
+      "Face, edge and vertex selection"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.52",
+    "platforms": [
+      "windows",
+      "macos"
+    ]
+  },
+  {
     "version": "0.0.51",
     "date": "2026-10-17",
     "lede": "The Theatre menu on the Z key, French and Chinese, a faster PBR Fast, curve profiles and Curve tool setups in the library, and the toolbar's tools in the right-click menu.",
