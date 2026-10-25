@@ -1,5 +1,22 @@
 [
   {
+    "version": "0.0.53",
+    "date": "2026-10-25",
+    "lede": "The Flood tab, an Export and Import dialog with sculpt layers as blendshapes, a plane lock with a Plane Trim brush, Crumble for carving strokes, a Twist operator for ribbons and folds, faster async subdivision on the graphics card, polygroups with their own tool card and a source picker that survive remeshing, seamless textures and resized copies from the library, and a tangent-space normal map in the Baker.",
+    "highlights": [
+      "Flood tab",
+      "Export and Import dialog",
+      "Gizmo symmetry",
+      "Plane lock",
+      "Crumble",
+      "Twist"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.53",
+    "platforms": [
+      "windows"
+    ]
+  },
+  {
     "version": "0.0.52",
     "date": "2026-10-18",
     "lede": "Stroke deposit engine 2.0, face, edge and vertex selection, updated clay and rake brushes with dynamic smoothing, and finer spacing and stroke direction controls.",
