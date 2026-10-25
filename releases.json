@@ -13,7 +13,8 @@
     ],
     "notesUrl": "https://klaysculpt.com/releases/0.0.53",
     "platforms": [
-      "windows"
+      "windows",
+      "macos"
     ]
   },
   {
