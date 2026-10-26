@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.0.54",
+    "date": "2026-10-26",
+    "lede": "Studio licence server, compact right-click menu with your own quick actions, timer-dial undo strip",
+    "highlights": [
+      "Studio licence server",
+      "Edit placement and Recenter for clay objects"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.54",
+    "platforms": [
+      "windows",
+      "macos"
+    ]
+  },
+  {
     "version": "0.0.53",
     "date": "2026-10-25",
     "lede": "The Flood tab, an Export and Import dialog with sculpt layers as blendshapes, a plane lock with a Plane Trim brush, Crumble for carving strokes, a Twist operator for ribbons and folds, faster async subdivision on the graphics card, polygroups with their own tool card and a source picker that survive remeshing, seamless textures and resized copies from the library, and a tangent-space normal map in the Baker.",
