@@ -1,5 +1,23 @@
 [
   {
+    "version": "0.0.55",
+    "date": "2026-11-01",
+    "lede": "Faster, lighter clay: sculpting up to 5x faster on half the memory; a Primitives tool with 133 parametric shapes for Poly and Clay; Color correct looks in the Library; Smooth or Handles curves with a live dab preview; Sharp retopology hits its polycount with clean open borders",
+    "highlights": [
+      "Faster, lighter clay",
+      "Primitives tool",
+      "Point instancing in instance packs",
+      "Clay layer resolution",
+      "Color correct looks",
+      "More ways to blend clay"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.55",
+    "platforms": [
+      "windows",
+      "macos"
+    ]
+  },
+  {
     "version": "0.0.54",
     "date": "2026-10-26",
     "lede": "Studio licence server, compact right-click menu with your own quick actions, timer-dial undo strip",
