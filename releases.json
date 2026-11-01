@@ -1,5 +1,21 @@
 [
   {
+    "version": "0.0.56",
+    "date": "2026-11-01",
+    "lede": "Merging clay layers no longer leaves missing patches up close",
+    "highlights": [
+      "Merged clay layers are complete up close",
+      "Smooth Boolean / Merge of rotated layers",
+      "Align moves only the clicked clay primitive",
+      "Brush value drag on left / middle mouse"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.56",
+    "platforms": [
+      "windows",
+      "macos"
+    ]
+  },
+  {
     "version": "0.0.55",
     "date": "2026-11-01",
     "lede": "Faster, lighter clay: sculpting up to 5x faster on half the memory; a Primitives tool with 133 parametric shapes for Poly and Clay; Color correct looks in the Library; Smooth or Handles curves with a live dab preview; Sharp retopology hits its polycount with clean open borders",
