@@ -1,5 +1,20 @@
 [
   {
+    "version": "0.0.57",
+    "date": "2026-11-02",
+    "lede": "Clay paint colour and material from the toolbar, and Klay starts again on AMD Radeon RX 5000 and RX 6000 cards",
+    "highlights": [
+      "Clay paint colour and material",
+      "Colour for clay primitives",
+      "Noise layers for primitives"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.57",
+    "platforms": [
+      "windows",
+      "macos"
+    ]
+  },
+  {
     "version": "0.0.56",
     "date": "2026-11-01",
     "lede": "Merging clay layers no longer leaves missing patches up close",
