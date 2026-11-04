@@ -1,5 +1,19 @@
 [
   {
+    "version": "0.0.58",
+    "date": "2026-11-03",
+    "lede": "Faster primitive editing: an optional raymarching shader draws clay primitives while you edit them, so moving them no longer rebuilds the clay every frame",
+    "highlights": [
+      "Faster primitive editing",
+      "Mirror a placed primitive"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.58",
+    "platforms": [
+      "windows",
+      "macos"
+    ]
+  },
+  {
     "version": "0.0.57",
     "date": "2026-11-02",
     "lede": "Clay paint colour and material from the toolbar, and Klay starts again on AMD Radeon RX 5000 and RX 6000 cards",
