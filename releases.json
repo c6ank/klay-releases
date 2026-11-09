@@ -1,5 +1,24 @@
 [
   {
+    "version": "0.0.59",
+    "date": "2026-11-09",
+    "lede": "The Scatter tool, and USD export that keeps copies, instance packs and scatters as instances",
+    "highlights": [
+      "Scatter tool",
+      "Scatter growth",
+      "USD export",
+      "Shot sculpting on Alembic caches",
+      "Flood layers",
+      "Jiggle, Muscle, Skin slide and Cloth in the Flood stack"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.59",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ]
+  },
+  {
     "version": "0.0.58",
     "date": "2026-11-03",
     "lede": "Faster primitive editing: an optional raymarching shader draws clay primitives while you edit them, so moving them no longer rebuilds the clay every frame",
