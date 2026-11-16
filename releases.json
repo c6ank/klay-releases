@@ -1,5 +1,24 @@
 [
   {
+    "version": "0.0.60",
+    "date": "2026-11-16",
+    "lede": "Klay Live across the internet, saving in the background without freezing, Klay and ZBrush navigation styles, faster and smoother clay sculpting, scenes with many more clay layers, a procedural studio backdrop for the environment, and SSS trace sets",
+    "highlights": [
+      "Klay Live across the internet",
+      "Navigation styles on the welcome screen",
+      "Lights can follow the camera",
+      "Procedural studio backdrop",
+      "Paint channels in the Brush tab",
+      "SSS trace sets"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.60",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ]
+  },
+  {
     "version": "0.0.59",
     "date": "2026-11-09",
     "lede": "The Scatter tool, and USD export that keeps copies, instance packs and scatters as instances",
