@@ -1,5 +1,24 @@
 [
   {
+    "version": "0.0.61",
+    "date": "2026-11-16",
+    "lede": "Clay Grab fixes: no debris after long Move and Elastique pulls, an exact Ctrl scale preview, and no flicker on release",
+    "highlights": [
+      "In the Primitives tool, a right-click on any primitive selects it and opens Swap shape, with its shapes and Blending",
+      "The Windows installer now updates Klay in the folder it was installed in, instead of proposing the default Program Files folder each time",
+      "Pen pressure works again on Linux, macOS and Windows Ink tablets",
+      "A long Move or Elastique pull on clay no longer leaves brick-shaped pieces floating along the pull after release",
+      "Scaling (Ctrl + drag) and twisting (Ctrl + right-drag) clay with the Grab tool no longer show the moved area cut flat in blocky steps while the button is held",
+      "A clay layer no longer disappears for one frame just after releasing some large grabs"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.61",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ]
+  },
+  {
     "version": "0.0.60",
     "date": "2026-11-16",
     "lede": "Klay Live across the internet, saving in the background without freezing, Klay and ZBrush navigation styles, faster and smoother clay sculpting, scenes with many more clay layers, a procedural studio backdrop for the environment, and SSS trace sets",
