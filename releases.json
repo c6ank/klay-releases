@@ -1,5 +1,24 @@
 [
   {
+    "version": "0.0.62",
+    "date": "2026-11-23",
+    "lede": "Tiles subdivision to sculpt above 500 million polygons, Alpha Studio to paint brush alphas, ZBrush .ztl import (alpha), dynamic alphas that change with pen pressure, record a sculpt as an OBJ sequence, a camera that follows a recording, copy modifiers in a new Modifier tab, Flood processes on clay layers, and a scene-wide paint channel view",
+    "highlights": [
+      "Tiles subdivision",
+      "Alpha Studio: paint your own brush alphas",
+      "Dynamic alpha brushes: a different stamp for each pressure",
+      "ZBrush .ztl import (alpha)",
+      "Record a sculpt as an OBJ sequence",
+      "A camera that follows a Klay motion recording"
+    ],
+    "notesUrl": "https://klaysculpt.com/releases/0.0.62",
+    "platforms": [
+      "windows",
+      "macos",
+      "linux"
+    ]
+  },
+  {
     "version": "0.0.61",
     "date": "2026-11-16",
     "lede": "Clay Grab fixes: no debris after long Move and Elastique pulls, an exact Ctrl scale preview, and no flicker on release",
